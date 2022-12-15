@@ -1,6 +1,6 @@
 # homepage
 My first page design by Mateusz Pilch
-https://github.com/mateuszpilch81/homepage
+https://mateuszpilch81.github.io/homepage/
 
 ## Technologies:
 1. HTML

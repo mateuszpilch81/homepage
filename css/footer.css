@@ -1,0 +1,12 @@
+.footer {
+    text-align: center;
+}
+
+.footer__link {
+    text-decoration: none;
+    color: #352619;
+}
+
+.footer__link:visited {
+    color: #352619;
+}

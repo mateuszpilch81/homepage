@@ -1,0 +1,19 @@
+.table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.table__row {
+    color: #333;
+}
+
+.table__cell {
+    border: 1px solid #ccc;
+    padding: 5px;
+    text-align: center;
+}
+
+.table__header {
+    background-color: rgba(126, 136, 136, 0.239);
+    color: #333;
+}

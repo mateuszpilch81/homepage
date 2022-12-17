@@ -1,6 +1,8 @@
 # homepage
 My first page design by Mateusz Pilch
 <br>
+![Sample] (images/HomePageMg.png)
+<br>
 https://mateuszpilch81.github.io/homepage/
 
 ## Technologies:

@@ -1,7 +1,7 @@
 # homepage
 My first page design by Mateusz Pilch
 <br>
-![Sample] (images/HomePageMg.png)
+<img src="images/HomePageMg.png" width="200"/>
 <br>
 https://mateuszpilch81.github.io/homepage/
 

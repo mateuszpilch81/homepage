@@ -13,6 +13,6 @@
             theName.innerText = pictureMP.classList.contains("display") ? "Pokaż" : "Usuń";
         });
     }
-    init();
     welcome();
+    init();
 }
